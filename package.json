@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste programador Backend utilizando uma API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonSMS/TesteNodeJs.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Anderson Santana Monteiro dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonSMS/TesteNodeJs/issues"
+  },
+  "homepage": "https://github.com/AndersonSMS/TesteNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
